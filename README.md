@@ -53,7 +53,7 @@ For example, “somepassword” should an error message: “Password must be at 
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/eli64s/readme-ai-streamlit
+git clone [https://github.com/eli64s/readme-ai-streamlit](https://github.com/MarioBanovac/Password-Validator-TDD.git)
 ```
 
 2. Change to the project directory:
