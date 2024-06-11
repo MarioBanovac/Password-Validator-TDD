@@ -59,7 +59,7 @@ git clone https://github.com/MarioBanovac/Password-Validator-TDD.git
 2. Change to the project directory:
 
 ```sh
-cd password-Validator
+cd Password-Validator-TDD
 ```
 
 3. Install the dependencies:
