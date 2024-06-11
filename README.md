@@ -3,11 +3,6 @@
     <h1 align="center">Password-Validator-TDD</h1>
 </p>
 
-##  Quick Links
-
-> - [ Overview](#-overview)
-> - [ Business Requirements](#-business-requirements)
-
 ---
 
 ##  Overview
